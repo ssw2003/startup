@@ -1,2 +1,8 @@
 # startup
 calculatorWebsite
+# elevator pitch
+I want to build a calculator. I'll include a basic calculator and other calculators. They will be awesome. I'll let people interacting with the website in other calculators open the basic calculator from them. That can let them enter in numbers. The basic calculator can also do functions. The basic calculator will work with complex numbers, by default.
+# key features
+The key features will include several calculators. These calculators will be the algebra calculator, the basic calculator, the stats calculator, the BMI calculator, the elliptic curve calculator, and the prime factorization calculator.
+# How I will use each technology
+I will use HTML to code the website, JavaScript to interact, and CSS to display.
