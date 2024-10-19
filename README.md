@@ -7,4 +7,8 @@ The key features will include several calculators. These calculators will be the
 # How I will use each technology
 I will use HTML to code the website, JavaScript to interact, and CSS to display. I will use React to get the stuff converted into JavaScript. I will use WebSocket to let people communicate with the server as a middle man.
 # Image
+<<<<<<< HEAD
 ![Image about website plan](/"PlanForWebsite.png")
+=======
+![Image about website plan](/"PlanForWebsite.png")
+>>>>>>> a49a21bc1ccaf3a4141e8ea1769302a5b117f3c5
