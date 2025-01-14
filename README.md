@@ -7,4 +7,4 @@ People will be able to add music, put it in lists, and play individual songs as 
 # how I will use each technology
 I will use HTML, CSS, and JavaScript to display the page. I will use communication between server and client to get requests in and out. I will use databases to store music. I will use WebSockets to communicate notifications between server and client and to get those notifications out to other people.
 # display image
-![Image](/startup)
+![Image](/startup.png)
