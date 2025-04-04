@@ -8,3 +8,5 @@ People will be able to add music, put it in lists, and play individual songs as 
 I will use HTML, CSS, and JavaScript to display the page. I will use communication between server and client to get requests in and out. I will use databases to store music. I will use WebSockets to communicate notifications between server and client and to get those notifications out to other people.
 # website display
 ![Image](/startup.png)
+# HTML Startup
+Added picture of piano into folder. Also added diagrams of trash cans and speakers
