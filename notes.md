@@ -1,1 +1,2 @@
-
+# Things I learned
+I learned that body has header, footer, and main as children. Tables must be declared with <table></table> tags and <tr></tr> tags make a new row. A row of a table can either be table header <th></th> or it can be <td></td>. An element can have a class, like <p class="cool">.

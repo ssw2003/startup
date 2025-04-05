@@ -10,3 +10,4 @@ I will use HTML, CSS, and JavaScript to display the page. I will use communicati
 ![Image](/startup.png)
 # HTML Startup
 Added picture of piano into folder. Also added diagrams of trash cans and speakers
+Added some notes.
