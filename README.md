@@ -2,7 +2,7 @@
 
 [My Notes](notes.md)
 
-T.
+This application will be an application for a Nim game of taking marbles from a pile.
 
 
 > [!NOTE]
@@ -43,7 +43,7 @@ sequenceDiagram
 
 ### Key features
 
-- Describe your key feature
+- People will be able to see the list of games and people will be able to make new games.
 - Describe your key feature
 - Describe your key feature
 - Describe your key feature
