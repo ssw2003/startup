@@ -1,8 +1,8 @@
-# Nim Marble Game Website
+# Bughouse Chess Website
 
 [My Notes](notes.md)
 
-This application will be an application for a Nim game of taking marbles from a pile.
+This application will be an application for Bughouse Chess.
 
 
 > [!NOTE]
@@ -18,15 +18,15 @@ This application will be an application for a Nim game of taking marbles from a 
 
 For this deliverable I did the following. I checked the box `[x]` and added a description for things I completed.
 
-- [x] Proper use of Markdown
-- [x] A concise and compelling elevator pitch
-- [x] Description of key features
-- [x] Description of how you will use each technology
+- [ ] Proper use of Markdown
+- [ ] A concise and compelling elevator pitch
+- [ ] Description of key features
+- [ ] Description of how you will use each technology
 - [ ] One or more rough sketches of your application. Images must be embedded in this file using Markdown image references.
 
 ### Elevator pitch
 
-I'm doing a game.
+Bughouse Chess is a 4 player Chess where there are two pairs of partners. Partners play different colors from each other and with different Chess boards from each other. A person capturing a piece can give it to their partner, who can set it down anywhere they want. When one player gets checkmated, the game ends, and they and their partner are the losers. This website will create Bughouse Chess.
 
 ### Design
 
@@ -46,7 +46,6 @@ sequenceDiagram
 - Describe your key feature
 - Describe your key feature
 - Describe your key feature
-- Describe your key feature
 
 ### Technologies
 
@@ -56,7 +55,7 @@ I am going to use the required technologies in the following ways.
 - **CSS** - Description here
 - **React** - Description here
 - **Service** - Description here
-- **DB/Login** -Description here
+- **DB/Login** - Description here
 - **WebSocket** - Description here
 
 ## 🚀 AWS deliverable
