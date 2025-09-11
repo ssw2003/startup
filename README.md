@@ -2,7 +2,7 @@
 
 [My Notes](notes.md)
 
-e.
+This application will be an application for a Nim game of taking marbles from a pile.
 
 
 > [!NOTE]
@@ -43,9 +43,9 @@ sequenceDiagram
 
 ### Key features
 
+- Some of the features will be pages that allow people to see what games are available to be joined and join games as observers.
 - People will be able to see the list of games and people will be able to make new games.
 - The number of marbles will be displayed in a box during the game, rather than showing actual marbles.
-- Describe your key feature
 - Describe your key feature
 
 ### Technologies
