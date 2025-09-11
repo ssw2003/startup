@@ -2,7 +2,7 @@
 
 [My Notes](notes.md)
 
-e.
+This application will be an application for a Nim game of taking marbles from a pile.
 
 
 > [!NOTE]
@@ -54,7 +54,7 @@ I am going to use the required technologies in the following ways.
 
 - **HTML** - Displaying my website, side bars, the person's username and log in screens.
 - **CSS** - This will be used to style my website and to display nice colors and to change heights and widths of things.
-- **React** - Description here
+- **React** - This will be used to notice clicks and to change things inside buttons, and text in other places.
 - **Service** - Description here
 - **DB/Login** -Description here
 - **WebSocket** - Description here
