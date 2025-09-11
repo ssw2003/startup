@@ -2,7 +2,7 @@
 
 [My Notes](notes.md)
 
-This application will be an application for a Nim game of taking marbles from a pile.
+e.
 
 
 > [!NOTE]
@@ -53,7 +53,7 @@ sequenceDiagram
 I am going to use the required technologies in the following ways.
 
 - **HTML** - Displaying my website, side bars, the person's username and log in screens.
-- **CSS** - Description here
+- **CSS** - This will be used to style my website and to display nice colors and to change heights and widths of things.
 - **React** - Description here
 - **Service** - Description here
 - **DB/Login** -Description here
