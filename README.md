@@ -2,7 +2,7 @@
 
 [My Notes](notes.md)
 
-This application wi.
+T.
 
 
 > [!NOTE]
@@ -56,7 +56,7 @@ I am going to use the required technologies in the following ways.
 - **CSS** - This will be used to style my website and to display nice colors and to change heights and widths of things.
 - **React** - This will be used to notice clicks and to change things inside buttons, and text in other places.
 - **Service** - This will be used to write computer functions that can calculate new numbers of marbles, and hash passwords.
-- **DB/Login** -Description here
+- **DB/Login** - This is for making usernames, which can go in the databases, and for checking passwords
 - **WebSocket** - Description here
 
 ## 🚀 AWS deliverable
