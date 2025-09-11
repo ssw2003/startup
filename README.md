@@ -2,7 +2,7 @@
 
 [My Notes](notes.md)
 
-T.
+This application will be an application for a Nim game of taking marbles from a pile.
 
 
 > [!NOTE]
@@ -57,7 +57,7 @@ I am going to use the required technologies in the following ways.
 - **React** - This will be used to notice clicks and to change things inside buttons, and text in other places.
 - **Service** - This will be used to write computer functions that can calculate new numbers of marbles, and hash passwords.
 - **DB/Login** - This is for making usernames, which can go in the databases, and for checking passwords
-- **WebSocket** - Description here
+- **WebSocket** - This will be used to view the games in real time, and to give notifications such as people joining games, people leaving games, and people making moves in games.
 
 ## 🚀 AWS deliverable
 
