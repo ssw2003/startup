@@ -2,7 +2,7 @@
 
 [My Notes](notes.md)
 
-This application will be an application for a Nim game of taking marbles from a pile.
+T.
 
 
 > [!NOTE]
@@ -26,7 +26,7 @@ For this deliverable I did the following. I checked the box `[x]` and added a de
 
 ### Elevator pitch
 
-I'm doing a game.
+I'm doing a game called Nim about taking piles of marbles from a pile of marbles that starts with a certain number of marbles, which they can choose. Each game will have two players take turns with each other and take out a certain number of marbles, from 1 up to a number of their choice. Whoever takes the last marble wins.
 
 ### Design
 
