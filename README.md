@@ -76,7 +76,7 @@ For this deliverable I did the following. I checked the box `[x]` and added a de
 - [x] **Text** - My HTML pages have text in the p tags.
 - [x] **3rd party API placeholder** - I made links to places that explain Nim game.
 - [ ] **Images** - I did not complete this part of the deliverable.
-- [ ] **Login placeholder** - I did not complete this part of the deliverable.
+- [x] **Login placeholder** - I made a place where someone could sign in, although it doesn't work yet.
 - [ ] **DB data placeholder** - I did not complete this part of the deliverable.
 - [ ] **WebSocket placeholder** - I did not complete this part of the deliverable.
 
