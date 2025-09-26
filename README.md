@@ -70,7 +70,7 @@ For this deliverable I did the following. I checked the box `[x]` and added a de
 
 For this deliverable I did the following. I checked the box `[x]` and added a description for things I completed.
 
-- [ ] **HTML pages** - I did not complete this part of the deliverable.
+- [x] **HTML pages** - I made both of my HTML pages, being the main screen and the screen for game playing.
 - [x] **Proper HTML element usage** - I used body, html, header, footer, main, table, tr, div, and td tags.
 - [ ] **Links** - I did not complete this part of the deliverable.
 - [ ] **Text** - I did not complete this part of the deliverable.
