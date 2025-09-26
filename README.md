@@ -74,7 +74,7 @@ For this deliverable I did the following. I checked the box `[x]` and added a de
 - [x] **Proper HTML element usage** - I used body, html, header, a href, footer, main, table, p, tr, div, and td tags.
 - [x] **Links** - I added links to my GitHub and from the pages to each other.
 - [x] **Text** - My HTML pages have text in the p tags.
-- [ ] **3rd party API placeholder** - I did not complete this part of the deliverable.
+- [x] **3rd party API placeholder** - I made links to places that explain Nim game.
 - [ ] **Images** - I did not complete this part of the deliverable.
 - [ ] **Login placeholder** - I did not complete this part of the deliverable.
 - [ ] **DB data placeholder** - I did not complete this part of the deliverable.
