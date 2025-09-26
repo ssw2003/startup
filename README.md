@@ -78,7 +78,7 @@ For this deliverable I did the following. I checked the box `[x]` and added a de
 - [x] **Images** - The main screen has a picture of some marbles and the game playing screen has a picture of some marbles.
 - [x] **Login placeholder** - I made a place where someone could sign in, although it doesn't work yet.
 - [x] **DB data placeholder** - The database will be used when people try to log in. It will also be used to list all games and when people try to join games.
-- [ ] **WebSocket placeholder** - I did not complete this part of the deliverable.
+- [x] **WebSocket placeholder** - The Web Socket Area is at the right of the game playing screen and will be used when someone makes a move or joins or leaves.
 
 ## 🚀 CSS deliverable
 
