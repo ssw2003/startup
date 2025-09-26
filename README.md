@@ -70,9 +70,9 @@ For this deliverable I did the following. I checked the box `[x]` and added a de
 
 For this deliverable I did the following. I checked the box `[x]` and added a description for things I completed.
 
-- [x] **HTML pages** - I made both of my HTML pages, being the main screen and the screen for game playing.
+- [x] **HTML pages** - I ma.
 - [x] **Proper HTML element usage** - I used body, html, header, a href, footer, main, table, p, tr, div, and td tags.
-- [ ] **Links** - I did not complete this part of the deliverable.
+- [x] **Links** - I added links to my GitHub and from the pages to each other, as well as links to places that explain Nim game.
 - [x] **Text** - My HTML pages have text in the p tags.
 - [ ] **3rd party API placeholder** - I did not complete this part of the deliverable.
 - [ ] **Images** - I did not complete this part of the deliverable.
