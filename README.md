@@ -64,14 +64,14 @@ I am going to use the required technologies in the following ways.
 
 For this deliverable I did the following. I checked the box `[x]` and added a description for things I completed.
 
-- [ ] **Server deployed and accessible with custom domain name** - [My server link](https://yourdomainnamehere.click).
+- [x] **Server deployed and accessible with custom domain name** - [Nim Server](https://cs260nim-game.click).
 
 ## 🚀 HTML deliverable
 
 For this deliverable I did the following. I checked the box `[x]` and added a description for things I completed.
 
 - [ ] **HTML pages** - I did not complete this part of the deliverable.
-- [ ] **Proper HTML element usage** - I did not complete this part of the deliverable.
+- [x] **Proper HTML element usage** - I used body, html, header, footer, main, table, tr, div, and td tags.
 - [ ] **Links** - I did not complete this part of the deliverable.
 - [ ] **Text** - I did not complete this part of the deliverable.
 - [ ] **3rd party API placeholder** - I did not complete this part of the deliverable.
