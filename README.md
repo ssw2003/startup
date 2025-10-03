@@ -2,7 +2,7 @@
 
 [My Notes](notes.md)
 
-This applicaton will be an application for a Nim game of taking marbles from a pile.
+This application will be an application for a Nim game of taking marbles from a pile.
 
 
 > [!NOTE]
