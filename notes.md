@@ -10,3 +10,5 @@ I have to have the index file in public instead of inside a directory in public
 Flex thing has to have in html tag the height declared
 
 I need accordion elements
+
+We need, in a fetch, "response" and "jsonResponse" variables
