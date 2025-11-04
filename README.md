@@ -96,7 +96,7 @@ For this deliverable I did the following. I checked the box `[x]` and added a de
 For this deliverable I did the following. I checked the box `[x]` and added a description for things I completed.
 
 - [x] **Bundled using Vite** - I am using Vite to put the code together in Amazon Web Services.
-- [x] **Components** - I have navigation bars that navigate to both pages of my website using function calls.
+- [x] **Components** - I have naviation bars that navigate to both pages of my website using function calls.
 - [x] **Router** - I added BrowserRouter tags to get the website to have no more .html thing at the end.
 
 ## 🚀 React part 2: Reactivity deliverable
