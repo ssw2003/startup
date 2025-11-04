@@ -1,0 +1,27 @@
+.gitHubThing {font-size: 37pt;}
+.ppp {
+    font-size: 22pt;
+}
+.sideArea {
+    font-size: 37pt;
+    font-family: Georgia;
+    width: 200px;
+    height: 400px;
+}
+
+.middleArea {
+    font-family: Arial;
+    width: 225px;
+    background-color: #ffffff;
+    color: #0000ff;
+    text-align: center;
+}
+.endArea {
+    font-family: Courier;
+    background-color: #bfbfbf;
+    color: #ff00ff;
+    width: calc(100vw - 425px);
+    text-align: center;
+}
+.ml {
+}
