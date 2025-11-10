@@ -104,7 +104,7 @@ For this deliverable I did the following. I checked the box `[x]` and added a de
 For this deliverable I did the following. I checked the box `[x]` and added a description for things I completed.
 
 - [ ] **All functionality implemented or mocked out** - I did not complete this part of the deliverable.
-- [x] **Hooks** - I have a hook to make a variable and set it. I used hooks to set the picre variables for being displayed in the main screen, the playing screen, and the error screen.
+- [x] **Hooks** - I have a hook to make a variable and set it. I used hooks to set the pire variables for being displayed in the main screen, the playing screen, and the error screen.
 
 ## 🚀 Service deliverable
 
