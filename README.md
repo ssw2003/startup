@@ -103,8 +103,8 @@ For this deliverable I did the following. I checked the box `[x]` and added a de
 
 For this deliverable I did the following. I checked the box `[x]` and added a description for things I completed.
 
-- [ ] **All functionality implemented or mocked out** - I did not complete this part of the deliverable.
-- [x] **Hooks** - I have a hook to make a variable and set it. I used hooks to set the picture variables for being displayed in the main screen, the playing screen, and the error screen.
+- [x] **All functionality implemented or mocked out** - I made a mock create account button that uses the buttons next to that button to make a mock username. It doesn't display it after you're done making the username. I made a mock sign in where you can log in as Billy, Bob, or Joe, as well as a mock sign out. I made mock buttons for playing and joining games that tell you to click the playing screen.
+- [x] **Hooks** - I have a hook to make a variable and set it. I used hooks to set the picture variables for being displayed in the main screen, the playing screen, and the error screen. I used hooks in order to change the value of the number of marbles left when someone clicks a button.
 
 ## 🚀 Service deliverable
 
