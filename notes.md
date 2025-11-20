@@ -16,3 +16,5 @@ We need, in a fetch, "response" and "jsonResponse" variables
 We have to run npm; it won't work otherwise
 
 We have to declare variable with React and then use the literal setting function to reset variable
+
+We can pass in function as parameter
