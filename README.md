@@ -111,7 +111,7 @@ For this deliverable I did the following. I checked the box `[x]` and added a de
 For this deliverable I did the following. I checked the box `[x]` and added a description for things I completed.
 
 - [x] **Node.js/Express HTTP service** - I used express and ran node js in order to make it.
-- [ ] **Static middleware for frontend** - I did not complete this part of the deliverable.
+- [x] **Static middleware for frontend** - I had my website serve files such as images from the public folder as well as html files and CSS files.
 - [ ] **Calls to third party endpoints** - I did not complete this part of the deliverable.
 - [ ] **Backend service endpoints** - I did not complete this part of the deliverable.
 - [ ] **Frontend calls service endpoints** - I did not complete this part of the deliverable.
