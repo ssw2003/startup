@@ -113,7 +113,7 @@ For this deliverable I did the following. I checked the box `[x]` and added a de
 - [x] **Node.js/Express HTTP service** - I used express and ran node js in order to make it.
 - [x] **Static middleware for frontend** - I had my website serve files such as images from the public folder as well as html files and CSS files.
 - [x] **Calls to third party endpoints** - I had my website call a third party website to quote Bible verses.
-- [ ] **Backend service endpoints** - I did not complete this part of the deliverable.
+- [x] **Backend service endpoints** - I had endpoints from a Javascript file as backend service endpoints that do things like authenticate users and log them in.
 - [ ] **Frontend calls service endpoints** - I did not complete this part of the deliverable.
 - [ ] **Supports registration, login, logout, and restricted endpoint** - I did not complete this part of the deliverable.
 
