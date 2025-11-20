@@ -115,7 +115,7 @@ For this deliverable I did the following. I checked the box `[x]` and added a de
 - [x] **Calls to third party endpoints** - I had my website call a third party website to quote Bible verses.
 - [x] **Backend service endpoints** - I had endpoints from a Javascript file as backend service endpoints that do things like authenticate users and log them in.
 - [x] **Frontend calls service endpoints** - I had the JSX file call my service endpoints when logging in.
-- [x] **Supports registration, login, logout, and restricted endpoint** - Users can log in and register. The list of users can be cleared but only by a particular user.
+- [x] **Supports registration, login, logout, and restricted endpoint** - Users capn log in and register. The list of users can be cleared but only by a particular user.
 
 
 ## 🚀 DB deliverable
