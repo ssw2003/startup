@@ -1,0 +1,82 @@
+#hedr {
+background-color: #ffff00;
+height: max(80px, calc(19vh - 13.49px));
+width: max(100vw, 600px);
+position: relative;
+font-size: 18pt;
+color: #0000ff;
+font-family: Arial;
+text-align: center;
+}
+td {
+padding: 0px;
+margin: 0px;
+border: 0px;
+}
+#mdl {
+height: calc(max(100vh, 471px) - max(256px, calc(19vh + 162.51px)));
+}
+#bttm {
+background-color: #ffffff;
+height: 105px;
+  font-family: 'Times New Roman';
+}
+#imageThing {
+width: 120px;
+height: 90px;
+}
+body {
+  min-width: 600px;
+  min-height: 455px;
+}
+#ftr {width: 150px; padding: 2px;}
+#blnk {
+width: min(max(75vw, 450px), calc(max(100vw, 600px) - 200px));
+height: max(30px, calc(6vh - 4.26px));
+}
+#corner {
+width: max(25vw, 200px);
+background-color: #ff0000;
+color: #00ff00;
+font-size: 11pt;
+}
+#lowhedr {
+height: calc(max(80px, calc(19vh - 13.49px)) - max(30px, calc(6vh - 4.26px)));
+}
+#hedrtable {
+position: relative;}
+#secondhedrtable {
+position: absolute;
+top: 0;
+right: 0;
+}
+#welcome {width: max(100vw, 600px);}
+#higherhedr {height: max(30px, calc(6vh - 4.26px));
+width: max(100vw, 600px);}
+#bdytbl {
+height: 100%
+}
+#sideArea {
+width: 200px;
+padding: 5px;
+}
+#OopsArea {
+background-color: #ffffff;
+width: max(calc(100vw - 200px), 400px);
+text-align: center;
+}
+#lnk {
+padding: 5px;
+}
+#sda {
+font-size: 22pt;
+font-family: Georgia;
+}
+#imageThingOops {
+    height: calc(max(95vh, 447.45px) - max(243.2px, calc(18.05vh + 154.3845px)));
+    width: max(calc(95vw - 190px), 380px);
+}
+#gith {
+font-size: 37pt;
+font-family: Georgia;
+}
