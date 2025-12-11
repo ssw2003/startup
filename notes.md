@@ -18,3 +18,5 @@ We have to run npm; it won't work otherwise
 We have to declare variable with React and then use the literal setting function to reset variable
 
 We can pass in function as parameter
+
+We must use try catch with database, because it's asynchronous
