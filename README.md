@@ -123,7 +123,7 @@ For this deliverable I did the following. I checked the box `[x]` and added a de
 For this deliverable I did the following. I checked the box `[x]` and added a description for things I completed.
 
 - [x] **Stores data in MongoDB** - I used a database to store the list of games. To see the list, you can click the list games button.
-- [x] **Stores credentials in MongoDB** - I have the database store people's user names and the hashes of their passwords. People can make accounts, and they can get into their accounts that they have made.
+- [x] **Stores credentials in MongoDB** - I have the dataibase store people's user names and the hashes of their passwords. People can make accounts, and they can get into their accounts that they have made.
 
 ## 🚀 WebSocket deliverable
 
