@@ -6,7 +6,7 @@ This application will be an application for a Nim game of taking marbles from a 
 
 
 > [!NOTE]
->  This is a template for your startup application. You must modify this `README.md` file for each phase of your development. You only need to fill in the section for each deliverable when that deliverable is submitted in Canvas. Without completing the section for a deliverable, the TA will not know what to look for when grading your submission. Feel free to add additional information to each deliverable description, but make sure you at least have the list of rubric items and a description of what you did for each item.
+>  This is a template for your startup applicaption. You must modify this `README.md` file for each phase of your development. You only need to fill in the section for each deliverable when that deliverable is submitted in Canvas. Without completing the section for a deliverable, the TA will not know what to look for when grading your submission. Feel free to add additional information to each deliverable description, but make sure you at least have the list of rubric items and a description of what you did for each item.
 
 > [!NOTE]
 >  If you are not familiar with Markdown then you should review the [documentation](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) before continuing.
@@ -123,7 +123,7 @@ For this deliverable I did the following. I checked the box `[x]` and added a de
 For this deliverable I did the following. I checked the box `[x]` and added a description for things I completed.
 
 - [x] **Stores data in MongoDB** - I used a database to store the list of games. To see the list, you can click the list games button.
-- [x] **Stores credentials in MongoDB** - I have the dataibase store people's user names and the hashes of their passwords. People can make accounts, and they can get into their accounts that they have made.
+- [x] **Stores credentials in MongoDB** - I have the database store people's user names and the hashes of their passwords. People can make accounts, and they can get into their accounts that they have made.
 
 ## 🚀 WebSocket deliverable
 
