@@ -60,4 +60,16 @@ state hooks let thing remember info
 
 ref hooks let thing hold info that isnt used 4 rendering like dom node or timeout id. Updating this doesn't rerender component. const iR = useRef(null);
 
-effect hook lets thing connect to and synchronize with external systems
+effect hook lets thing connect to and synchronize with external systems. Thing connects component to external systems.
+
+performance hook-useMemo or useCallback. Skipping unnecessary work or already done work.
+
+package.json is blueprint or manifest for node.js project. Its main purpose it to manage dependencies.
+
+fetch function is javascript function that requests resources from internet or other things and it returns promise. Response object when it can
+
+node.js is for executing JavaScript outside of web browser. It package management. Vite, which compiles the JSX/React code into JavaScript runs with it.
+
+Vite acts like factory for furniture-UI components and bundles code.
+
+pm2 keeps thing running. If crashes, pm2 restarts thing. monitoring and logging. Serves static files.
